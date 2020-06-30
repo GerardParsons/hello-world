@@ -7,4 +7,6 @@ Peter can you add something here please
 
 JB can you add something here please
 
-Lets add some codes.
+
+" The beauty of me is that I am very rich" - Donald Trump
+
